@@ -12,5 +12,8 @@ A template to start building beautiful and quality 3D games with Unity. This tem
 - Realtime GI ON
 - Backed GI OFF
 
+## Third party assets
+- [Free HDR Sky](https://www.assetstore.unity3d.com/en/#!/content/61217) by [ProAssets](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:19016)
+
 ## License
 This project is licensed under the MIT license.
